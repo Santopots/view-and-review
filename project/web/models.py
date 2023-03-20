@@ -14,3 +14,21 @@ class Film(models.Model):
     def __str__(self):
         return self.title
     
+class Actor(models.Model):
+    ...
+    
+class Director(models.Model):
+    ...
+    
+class Language(models.Model):
+    ...
+    
+class Genre(models.Model):
+    ...    
+    
+class Rating(models.Model):
+    ...
+    
+class Review(models.Model):
+    ...
+    
