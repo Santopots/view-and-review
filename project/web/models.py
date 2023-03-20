@@ -26,7 +26,7 @@ class Language(models.Model):
 class Genre(models.Model):
     ...    
     
-class Rating(models.Model):
+class Rating(models.Model):     
     ...
     
 class Review(models.Model):
